@@ -1,0 +1,23 @@
+*{
+    margin:8px;
+    padding:0;
+    box-sizing:border-box;
+}
+h1{
+            color:coral;
+        }
+        .paragraph1{
+            color:blue;
+        }
+        .paragraph2{
+            color:red;
+        }
+        div { 
+            background-color: rgba(255, 228, 196, 0.582);
+            padding-left: 15px;    
+        }
+        .color1{ color:coral;
+        font-style: bold;}
+        .line{
+            border-left: 4px solid coral;
+        }
